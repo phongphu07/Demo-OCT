@@ -3,4 +3,4 @@ Pillow
 opencv-python
 ultralytics
 split-folders
-streamlit-image-select
+st-clickable-images
